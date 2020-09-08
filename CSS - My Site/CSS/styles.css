@@ -1,0 +1,143 @@
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #30e3ca;
+}
+
+a:hover{
+  color: white;
+}
+
+h2 {
+  font-family: 'Merriweather', sans-serif;
+  font-size: 2.5rem;
+  color: #30e3ca;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Merriweather', sans-serif;
+  color:#11999E;
+}
+
+body {
+  margin: 0 0 0 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+hr {
+  border-style: dotted none none;
+  height: 0;
+  width: 5%;
+  border-width: 7px;
+  border-color: #EAF6F6;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 25%;
+  top: 5%;
+}
+
+.intro {
+position: relative;
+top: 110px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+  display: inline-block;
+}
+
+.skill-image1 {
+  width:50%;
+  float: left;
+  padding-right: 30px;
+  border-radius: 20%;
+}
+
+.skill-image2 {
+  width: 50%;
+  float: right;
+  padding-left: 30px;
+  border-radius: 20%;
+}
+
+.mountain {
+  position: relative;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+  top: 45%;
+}
+
+.underline {
+  text-decoration: underline;
+}
+.top_container {
+  background-color: #e4f9f5;
+  padding-bottom: 100px;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-bottom: 25px;
+
+}
+
+.footer-link {
+  font-family: 'Merriweather', sans-serif;
+  font-size: 1rem;
+  color: #11999E;
+  text-decoration: none;
+  padding: 18px;
+
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: .8rem;
+}
+
+.profile {
+  width: 40%;
+  margin: auto;
+  position: relative;
+  text-align: center;
+  line-height: 2;
+}
+
+.profile-picture {
+  border-radius: 100%;
+  position: relative;
+  margin-top: 50px;
+}
+
+.contact-me {
+  background-color: #11999E;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-bottom: 50px;
+  border-radius: 10%;
+  font-family: 'Merriweather', sans-serif;
+
+
+}
